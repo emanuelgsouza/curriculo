@@ -20,40 +20,48 @@ Link para meu currículo: [acesse](./Mycurriculum.pdf)
   * [x] Conversação básica;
   * [x] Leitura intermediária;
 
-* HTML5:
-  * [x] Semântica
-  * [x] SEO
-  * [ ] Performance (estudando)
-  * [ ] Web Components (estudando)
+* Stack Front End:
 
-* CSS:
-  * [x] CSS3
-  * [x] Sass
-  * [x] Bulma
+  * HTML5:
+    * [x] Semântica
+    * [x] SEO
 
-* JavaScript:
-  * [x] Vanilla
-  * [x] jQuery
-  * [x] Vue.js
-  * [ ] ES6 (estudando)
-  * [ ] Node (estudando)
-  * [ ] Babel (estudando)
+  * CSS:
+    * [x] CSS3
+    * [x] Sass
+    * [x] Bulma
+
+  * JavaScript:
+    * [x] Vanilla
+    * [x] jQuery
+    * [x] Vue.js
+    * [x] ES6
+    * [x] Babel
+
+* Stack Back End:
+
+  * JavaScript:
+    * [x] Node
+    * [x] Knex
+    * [x] Hapi
+    * [x] GraphQL
+
+  * Banco de Dados
+    * [x] PostgreSQL
+    * [x] MySQL
 
 * Padrões de Projeto em JavaScript:
   * [x] Factory
   * [x] Mixin
   * [x] Prototype
 
-* PHP
-  * [ ] Orientação a Objetos em PHP (estudando)
-
 * Ferramentas
-  * [x] Npm
   * [x] Git
+  * [x] Npm
+  * [x] Yarn
   * [x] Photoshop
   * [x] PouchDB
   * [x] Gulp
-  * [ ] Bower (estudando)
 
 * Cursos Livres
   * [x] Curso Básico de PHP - Curso em Vídeo
