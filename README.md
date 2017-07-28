@@ -16,7 +16,9 @@ Link para meu currículo: [acesse](./Mycurriculum.pdf)
 ## Experiências
 
 Intercase - Lojas Inteligentes
+
 Estagiário Front End
+
 Março 2017 - Julho de 2017
 
 ## Skils:
