@@ -1,8 +1,8 @@
 # Curriculo de Emanuel Gonçalves - Desenvolvedor Front-End
 
-Emanuel Gonçalves Santana de Souza
-Técnico em Informática pela FAETEC
-Cursando Sistemas de Informação, UNIGRANRIO, Caxias
+> Olá, sou Emanuel Gonçalves Santana de Souza. Sou formado em Técnico em
+> Informática pela FAETEC. Lá descobri minha paixão por programação. Atualmente
+> curso a faculdade de Análise de Sistemas, na UNIGRANRIO, em Duque de Caxias.
 
 Link para Linkedin:
 https://br.linkedin.com/in/emanuelgsouza
@@ -13,13 +13,33 @@ Link para blog: https://medium.com/emanuelg-blog
 
 Link para meu currículo: [acesse](./Mycurriculum.pdf)
 
+## Capacitação
+
+##### Curso em Técnico em Informática
+
+FAETEC - Fundação de Apoio à Escola Técnica
+
+Agosto de 2015 - Dezembro de 2016
+
+##### Curso de Análise de Sistemas
+
+UNIVERSIDADE UNIGRANRIO
+
+Agosto de 2016 - atualmente
+
 ## Experiências
 
-Intercase - Lojas Inteligentes
+#####  [Intercase - Lojas Inteligentes](http://www.intercase.com.br/)
 
 Estagiário Front End
 
 Março 2017 - Julho de 2017
+
+#####  [Decision 6](https://decision6.com/)
+
+JavaScript Developer
+
+Agosto de 2017 - atualmente
 
 ## Skils:
 
@@ -58,6 +78,9 @@ Março 2017 - Julho de 2017
     * [x] PostgreSQL
     * [x] MySQL
 
+  * PHP:
+    * [x] Conhecimento básico de Orientação a Objeto
+
 * Padrões de Projeto em JavaScript:
   * [x] Factory
   * [x] Mixin
@@ -70,6 +93,8 @@ Março 2017 - Julho de 2017
   * [x] Photoshop
   * [x] PouchDB
   * [x] Gulp
+
+* Conhecimento básico em Linux
 
 * Cursos Livres
   * [x] Curso Básico de PHP - Curso em Vídeo
