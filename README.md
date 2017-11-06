@@ -63,6 +63,9 @@ Agosto de 2017 - atualmente
     * [x] Vanilla
     * [x] jQuery
     * [x] Vue.js
+      * [x] Quasar
+      * [x] Vue Apollo
+      * [x] Buefy
     * [x] ES6
     * [x] Babel
 
@@ -76,7 +79,6 @@ Agosto de 2017 - atualmente
 
   * Banco de Dados
     * [x] PostgreSQL
-    * [x] MySQL
 
   * PHP:
     * [x] Conhecimento básico de Orientação a Objeto
@@ -85,6 +87,7 @@ Agosto de 2017 - atualmente
   * [x] Factory
   * [x] Mixin
   * [x] Prototype
+  * [x] Domain Driven Development
 
 * Ferramentas
   * [x] Git
