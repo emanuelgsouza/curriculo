@@ -7,11 +7,13 @@
 Link para Linkedin:
 https://br.linkedin.com/in/emanuelgsouza
 
-Link para o site pessoal: http://emanuelgdev.com.br
+Link para o site pessoal: https://emanuelgdev.com.br
 
 Link para blog: https://medium.com/emanuelg-blog
 
-Link para meu currículo: [acesse](./Mycurriculum.pdf)
+Link para meu currículo: [acesse](./curriculo.pdf)
+
+---
 
 ## Capacitação
 
@@ -21,11 +23,19 @@ FAETEC - Fundação de Apoio à Escola Técnica
 
 Agosto de 2015 - Dezembro de 2016
 
+##### Curso de Sistemas de Informação
+
+UNIVERSIDADE UNIGRANRIO
+
+Agosto de 2016 - Julho de 2017 (2 semestres)
+
 ##### Curso de Análise de Sistemas
 
 UNIVERSIDADE UNIGRANRIO
 
-Agosto de 2016 - atualmente
+Agosto de 2017 - atualmente
+
+---
 
 ## Experiências
 
@@ -35,11 +45,13 @@ Estagiário Front End
 
 Março 2017 - Julho de 2017
 
-#####  [Decision 6](https://decision6.com/)
+#####  [Decision 6 - Store Flow](https://decision6.com/)
 
-JavaScript Developer
+Analista Web
 
 Agosto de 2017 - atualmente
+
+---
 
 ## Skils:
 
@@ -66,6 +78,7 @@ Agosto de 2017 - atualmente
       * [x] Quasar
       * [x] Vue Apollo
       * [x] Buefy
+      * [x] Nuxt
     * [x] ES6
     * [x] Babel
 
@@ -106,3 +119,10 @@ Agosto de 2017 - atualmente
   * [x] Ui e UX Design - Tim Tec
   * [x] Curso de MySQL - SoftBlue
   * [x] Web Tooling - Udacity
+
+* Tecnologias que estou estudando
+  * [ ] Ember
+  * [ ] Laravel
+  * [ ] Wordpress
+  * [ ] Go
+  * [ ] Java
