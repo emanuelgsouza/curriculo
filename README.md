@@ -121,8 +121,4 @@ Agosto de 2017 - atualmente
   * [x] Web Tooling - Udacity
 
 * Tecnologias que estou estudando
-  * [ ] Ember
-  * [ ] Laravel
-  * [ ] Wordpress
-  * [ ] Go
   * [ ] Java
