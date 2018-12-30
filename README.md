@@ -1,17 +1,16 @@
-# Curriculo de Emanuel Gonçalves - Desenvolvedor Front-End
+# Emanuel Gonçalves
 
 > Olá, sou Emanuel Gonçalves Santana de Souza. Sou formado em Técnico em
 > Informática pela FAETEC. Lá descobri minha paixão por programação. Atualmente
 > curso a faculdade de Análise de Sistemas, na UNIGRANRIO, em Duque de Caxias.
 
-Link para Linkedin:
-https://br.linkedin.com/in/emanuelgsouza
+Linkedin: https://br.linkedin.com/in/emanuelgsouza
 
-Link para o site pessoal: https://emanuelgdev.com.br
+Site pessoal: https://emanuelgdev.com.br
 
-Link para blog: https://medium.com/emanuelg-blog
+Blog: https://medium.com/@Emanuel_G
 
-Link para meu currículo: [acesse](./curriculo.pdf)
+Currículo em PDF: [acesse](./curriculo.pdf)
 
 ---
 
@@ -59,6 +58,16 @@ Agosto de 2017 - atualmente
   * [x] Escrita intermediária;
   * [x] Conversação básica;
   * [x] Leitura intermediária;
+
+* Stack Ciência de Dados (Em desenvolvimento):
+  * [] Python
+    * [] Pandas
+    * [] Matplotlib
+    * [] Plotly
+    * [] Numpy
+    * [] scikit-learn
+    * [] statsmodels
+  * [] R
 
 * Stack Front End:
 
@@ -119,6 +128,3 @@ Agosto de 2017 - atualmente
   * [x] Ui e UX Design - Tim Tec
   * [x] Curso de MySQL - SoftBlue
   * [x] Web Tooling - Udacity
-
-* Tecnologias que estou estudando
-  * [ ] Java
