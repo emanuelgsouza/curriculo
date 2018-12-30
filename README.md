@@ -128,3 +128,44 @@ Agosto de 2017 - atualmente
   * [x] Ui e UX Design - Tim Tec
   * [x] Curso de MySQL - SoftBlue
   * [x] Web Tooling - Udacity
+
+## Estudos
+
+### Cursos que estou estudando
+
+* [] Machine Learning - Data Science Academy
+* [] Cálculo 1 - Curso Livre da Unicamp no Youtube
+* [] Álgebra Linear - Curso Livre da Univesp no Youtube
+
+## Projetos Pessoais
+
+No meu github há vários projetos pessoais, porém, há alguns que se destacam:
+
+### Em desenvolvimento
+
+#### tree-links
+
+https://github.com/emanuelgsouza/tree-links
+
+Uma ferramenta de linha de comando, que, a partir de um site passado via parâmetro, cria-se uma árvore de links deste site, e recursivamente para cada site encontrado. O objetivo, além do aprendizado do uso de ferramentas como Beautiful Soup e Requests (*libs* Python), é prover um mecanismo parecido com o que ferramentas de buscas fazem ao indexar sites.
+
+### Finalizados
+
+#### Acessibilidade for devs
+
+https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io
+
+Este site foi um dos primeiros que desenvolvi, o objetivo dele foi prover um compilado de conteúdos a respeito de acessibilidade para desenvolvedores.
+
+#### poc-mobilis-metabase
+
+https://github.com/emanuelgsouza/poc-mobilis-metabase
+
+Um CLI para, a partir de um CSV gerado pela empresa Mobilis, prover dados para um banco de dados Postgres, e assim, prover dados para uma aplicação metabase, usando Docker. Mais informações estão disponíveis no repositório.
+
+
+#### Eleições 2016
+
+https://github.com/emanuelgsouza/eleicoes-dc-2016
+
+Minha primeira aventura usando a linguagem Python. O objetivo foi apresentar uma solução de análise exploratória dos dados das eleições com o objetivo de entender o comportamento, em 2016, dos eleitores em Duque de Caxias, apenas usando os dados públicos eleitorais disponibilizados pelo TSE.
