@@ -60,14 +60,14 @@ Agosto de 2017 - atualmente
   * [x] Leitura intermediária;
 
 * Stack Ciência de Dados (Em desenvolvimento):
-  * [] Python
-    * [] Pandas
-    * [] Matplotlib
-    * [] Plotly
-    * [] Numpy
-    * [] scikit-learn
-    * [] statsmodels
-  * [] R
+  * [ ] Python
+    * [ ] Pandas
+    * [ ] Matplotlib
+    * [ ] Plotly
+    * [ ] Numpy
+    * [ ] scikit-learn
+    * [ ] statsmodels
+  * [ ] R
 
 * Stack Front End:
 
@@ -133,9 +133,9 @@ Agosto de 2017 - atualmente
 
 ### Cursos que estou estudando
 
-* [] Machine Learning - Data Science Academy
-* [] Cálculo 1 - Curso Livre da Unicamp no Youtube
-* [] Álgebra Linear - Curso Livre da Univesp no Youtube
+* [ ] Machine Learning - Data Science Academy
+* [ ] Cálculo 1 - Curso Livre da Unicamp no Youtube
+* [ ] Álgebra Linear - Curso Livre da Univesp no Youtube
 
 ## Projetos Pessoais
 
