@@ -10,6 +10,8 @@ Site pessoal: https://emanuelgdev.com.br
 
 Blog: https://medium.com/@Emanuel_G
 
+Perfil no Kaggle: https://www.kaggle.com/emanuelgss
+
 Currículo em PDF: [acesse](./curriculo.pdf)
 
 ---
