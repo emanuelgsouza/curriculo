@@ -151,7 +151,13 @@ https://github.com/emanuelgsouza/tree-links
 
 Uma ferramenta de linha de comando, que, a partir de um site passado via parâmetro, cria-se uma árvore de links deste site, e recursivamente para cada site encontrado. O objetivo, além do aprendizado do uso de ferramentas como Beautiful Soup e Requests (*libs* Python), é prover um mecanismo parecido com o que ferramentas de buscas fazem ao indexar sites.
 
-### Finalizados
+### Finalizados, até a próximo melhoria :)
+
+#### Parser de dados das eleições
+
+https://github.com/emanuelgsouza/eleicoes-parser
+
+O objetivo deste repositório é fornecer um script de parser para os dados das eleições vindos do Repositório do TSE. O objetivo é dar suporte ao a análise que foi realizada no repositório das Eleições 2016
 
 #### Acessibilidade for devs
 
