@@ -61,15 +61,17 @@ Agosto de 2017 - atualmente
   * [x] Conversação básica;
   * [x] Leitura intermediária;
 
-* Stack Ciência de Dados (Em desenvolvimento):
-  * [ ] Python
-    * [ ] Pandas
-    * [ ] Matplotlib
-    * [ ] Plotly
-    * [ ] Numpy
-    * [ ] scikit-learn
-    * [ ] statsmodels
-  * [ ] R
+* [ ] Python
+  * [ ] Pandas
+  * [ ] Matplotlib
+  * [ ] Plotly
+  * [ ] Numpy
+  * [ ] scikit-learn
+  * [ ] statsmodels
+  * [ ] Spark
+  * [ ] NLP
+  * [ ] TDD
+* [ ] R
 
 * Stack Front End:
 
@@ -133,7 +135,7 @@ Agosto de 2017 - atualmente
 
 ## Estudos
 
-### Cursos que estou estudando
+### Cursos "In progress"
 
 * [ ] Machine Learning - Data Science Academy
 * [ ] Cálculo 1 - Curso Livre da Unicamp no Youtube
@@ -157,7 +159,7 @@ Uma ferramenta de linha de comando, que, a partir de um site passado via parâme
 
 https://github.com/emanuelgsouza/eleicoes-parser
 
-O objetivo deste repositório é fornecer um script de parser para os dados das eleições vindos do Repositório do TSE. O objetivo é dar suporte ao a análise que foi realizada no repositório das Eleições 2016
+O objetivo deste repositório é fornecer um script de parser para os dados das eleições vindos do Repositório do TSE. O objetivo é dar suporte ao da análise que foi realizada no repositório das Eleições 2016
 
 #### Acessibilidade for devs
 
