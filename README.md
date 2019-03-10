@@ -34,7 +34,7 @@ Agosto de 2016 - Julho de 2017 (2 semestres)
 
 UNIVERSIDADE UNIGRANRIO
 
-Agosto de 2017 - atualmente
+Agosto de 2017 - previsão de Agosto de 2019
 
 ---
 
@@ -57,74 +57,92 @@ Agosto de 2017 - atualmente
 ## Skils:
 
 * Inglês:
-  * [x] Escrita intermediária;
-  * [x] Conversação básica;
-  * [x] Leitura intermediária;
+  * [x] Escrita intermediária
+  * [x] Conversação básica
+  * [x] Leitura intermediária
 
-* [ ] Python
-  * [ ] Pandas
-  * [ ] Matplotlib
-  * [ ] Plotly
-  * [ ] Numpy
-  * [ ] scikit-learn
-  * [ ] statsmodels
-  * [ ] Spark
-  * [ ] NLP
-  * [ ] TDD
-* [ ] R
+## Carreiras
 
-* Stack Front End:
+Tenho refletido bastante em minha carreira futura e experiências profissionais que venho adquirindo. Em suma, atualmente (2019), tenho adquirido conhecimentos, seja por experiência profissional ou estudos pessoais, para as seguintes carreiras.
 
-  * HTML5:
-    * [x] Semântica
-    * [x] SEO
+### Engenheiro de Machine Learning - Em aprendizado e experiência
 
-  * CSS:
-    * [x] CSS3
-    * [x] Sass
-    * [x] Bulma
+Esta seção mostra alguns conhecimentos nesta carreira, que são necessários, tais conhecimentos que pretendo explorar para fazer parte de minha stack de conhecimentos. Um material de referência que usei para compor esta stack se encontra num bom post do [Towards Data Science](https://towardsdatascience.com/how-to-become-a-machine-learning-engineer-ce81821a025f) e do [Quora](https://www.quora.com/What-are-the-recommended-courses-should-I-take-in-my-graduate-studies-to-become-a-Machine-Learning-Engineer/answer/Alex-Smola-1?ref=fb_page).
 
-  * JavaScript:
-    * [x] Vanilla
-    * [x] jQuery
-    * [x] Vue.js
-      * [x] Quasar
-      * [x] Vue Apollo
-      * [x] Buefy
-      * [x] Nuxt
-    * [x] ES6
-    * [x] Babel
+#### Ecossistema Python
+* Pandas
+* Matplotlib
+* Plotly
+* Numpy
+* scikit-learn
+* statsmodels
+* Spark
+* NLP (Natural Processing Language)
+* TDD
 
-* Stack Back End:
+#### Machine Learning
 
-  * JavaScript:
-    * [x] Node
-    * [x] Knex
-    * [x] Hapi
-    * [x] GraphQL
+* Métodos de Aprendizado
+* Modelos e algorítmos
+* Pré-processamento dos dados
 
-  * Banco de Dados
-    * [x] PostgreSQL
+#### Deep Learning
 
-  * PHP:
-    * [x] Conhecimento básico de Orientação a Objeto
+#### Matemática e Estatística
 
-* Padrões de Projeto em JavaScript:
-  * [x] Factory
-  * [x] Mixin
-  * [x] Prototype
-  * [x] Domain Driven Development
+#### Engenharia de Software relacionada
 
-* Ferramentas
-  * [x] Git
-  * [x] Npm
-  * [x] Yarn
-  * [x] Photoshop
-  * [x] PouchDB
-  * [x] Gulp
+* Pipeline
+* Trabalhar com grandes bases de dados e como extrair informações a partir delas
 
-* Conhecimento básico em Linux
+### Front End
 
+Possuo conhecimentos plenos em ferramentas relacionadas a carreira de Front-End, principalmente do lado do desenvolvimento, meus conhecimentos em design não são substanciais. Porém, consigo entregar um desenvolvimento tanto de um site simples, quanto de um sistema web utilizando frameworks Javascript do mercado, como Vuejs. A seguir, uma pequena lista de repositórios aqui no GitHub, que mostram minhas capacidades técnicas nesta área
+
+* HTML5:
+  * [x] Semântica
+  * [x] SEO
+
+* CSS:
+  * [x] CSS3
+  * [x] Sass
+  * [x] Bulma
+
+#### JavaScript
+
+Vuejs:
+* [Meu site pessoal](https://github.com/emanuelgsouza/emanuelgsouza.github.io)
+* [fake-phonebook](https://github.com/emanuelgsouza/fake-phonebook)
+* [Github Chat](https://github.com/emanuelgsouza/githubchat)
+
+React: em progresso
+
+### Back End
+
+Possuo conhecimentos que me aproximam um pouco com a área de Back-End. Seja relacionado ao JavaScript com Node, seja com a linguagem Python e também PHP. O principal banco relacional que possuo conhecimentos é o **Postgres**. Posus
+
+#### JavaScript
+
+Fastify com Graphql:
+* [Legislastive Votes API - Em desenvolvimento](https://github.com/emanuelgsouza/legislative-votes-api)
+
+#### Python
+
+* [Legislastive Votes Parser](https://github.com/emanuelgsouza/legislative-votes-parser)
+* [Eleições Parser](https://github.com/emanuelgsouza/eleicoes-parser)
+* [Tree Links - Em desenvolvimento](https://github.com/emanuelgsouza/tree-links)
+
+### Ferramentas e outras informações
+* [x] Git
+* [x] Docker
+  * [x] Docker Compose
+* [x] Npm
+* [x] Yarn
+* [x] Photoshop
+* [x] PouchDB
+* [x] Gulp
+* Sistema Operacional
+  * [x] Linux 
 * Cursos Livres
   * [x] Curso Básico de PHP - Curso em Vídeo
   * [x] Design de Interfaces em CSS3 - Tim Tec
@@ -138,14 +156,20 @@ Agosto de 2017 - atualmente
 ### Cursos "In progress"
 
 * [ ] Machine Learning - Data Science Academy
-* [ ] Cálculo 1 - Curso Livre da Unicamp no Youtube
-* [ ] Álgebra Linear - Curso Livre da Univesp no Youtube
+* [ ] Cálculo 1 - Curso Livre da Unicamp no Youtube (Em standby)
+* [ ] Álgebra Linear - Curso Livre da Univesp no Youtube (Em standby)
 
 ## Projetos Pessoais
 
 No meu github há vários projetos pessoais, porém, há alguns que se destacam:
 
 ### Em desenvolvimento
+
+#### legislative-votes-api
+
+https://github.com/emanuelgsouza/legislative-votes-api
+
+Uma API que mostra os votos de deputados federais na eleição geral de 2018. O objetivo aqui é pontuair quais foram "puxados" e quais de fato foram eleitos pelos próprios votos. O objetivo também é trabalhar mais de perto com o [fastify](fastify.io) e com Graphql. O projeto engatando e recebendo bons feedbacks, pode ser expandido para outras eleições.
 
 #### tree-links
 
