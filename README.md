@@ -12,6 +12,8 @@ Blog: https://medium.com/@Emanuel_G
 
 Perfil no Kaggle: https://www.kaggle.com/emanuelgss
 
+Sourcerer: https://sourcerer.io/emanuelgsouza
+
 Currículo em PDF: [acesse](./curriculo.pdf)
 
 ---
@@ -53,13 +55,6 @@ Analista Web
 Agosto de 2017 - atualmente
 
 ---
-
-## Skils:
-
-* Inglês:
-  * [x] Escrita intermediária
-  * [x] Conversação básica
-  * [x] Leitura intermediária
 
 ## Carreiras
 
@@ -142,7 +137,7 @@ Fastify com Graphql:
 * [x] PouchDB
 * [x] Gulp
 * Sistema Operacional
-  * [x] Linux 
+  * [x] Linux
 * Cursos Livres
   * [x] Curso Básico de PHP - Curso em Vídeo
   * [x] Design de Interfaces em CSS3 - Tim Tec
