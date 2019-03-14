@@ -90,6 +90,8 @@ Esta seção mostra alguns conhecimentos nesta carreira, que são necessários, 
 * Pipeline
 * Trabalhar com grandes bases de dados e como extrair informações a partir delas
 
+---
+
 ### Front End
 
 Possuo conhecimentos plenos em ferramentas relacionadas a carreira de Front-End, principalmente do lado do desenvolvimento, meus conhecimentos em design não são substanciais. Porém, consigo entregar um desenvolvimento tanto de um site simples, quanto de um sistema web utilizando frameworks Javascript do mercado, como Vuejs. A seguir, uma pequena lista de repositórios aqui no GitHub, que mostram minhas capacidades técnicas nesta área
@@ -105,12 +107,14 @@ Possuo conhecimentos plenos em ferramentas relacionadas a carreira de Front-End,
 
 #### JavaScript
 
-Vuejs:
-* [Meu site pessoal](https://github.com/emanuelgsouza/emanuelgsouza.github.io)
-* [fake-phonebook](https://github.com/emanuelgsouza/fake-phonebook)
-* [Github Chat](https://github.com/emanuelgsouza/githubchat)
+* Vuejs:
+ * [Meu site pessoal](https://github.com/emanuelgsouza/emanuelgsouza.github.io)
+ * [fake-phonebook](https://github.com/emanuelgsouza/fake-phonebook)
+ * [Github Chat](https://github.com/emanuelgsouza/githubchat)
 
-React: em progresso
+* React: em progresso
+
+---
 
 ### Back End
 
@@ -126,6 +130,8 @@ Fastify com Graphql:
 * [Legislastive Votes Parser](https://github.com/emanuelgsouza/legislative-votes-parser)
 * [Eleições Parser](https://github.com/emanuelgsouza/eleicoes-parser)
 * [Tree Links - Em desenvolvimento](https://github.com/emanuelgsouza/tree-links)
+
+---
 
 ### Ferramentas e outras informações
 * [x] Git
@@ -146,6 +152,8 @@ Fastify com Graphql:
   * [x] Curso de MySQL - SoftBlue
   * [x] Web Tooling - Udacity
 
+---
+
 ## Estudos
 
 ### Cursos "In progress"
@@ -153,6 +161,8 @@ Fastify com Graphql:
 * [ ] Machine Learning - Data Science Academy
 * [ ] Cálculo 1 - Curso Livre da Unicamp no Youtube (Em standby)
 * [ ] Álgebra Linear - Curso Livre da Univesp no Youtube (Em standby)
+
+---
 
 ## Projetos Pessoais
 
