@@ -79,6 +79,11 @@ Esta seção mostra alguns conhecimentos nesta carreira, que são necessários, 
 
 * Métodos de Aprendizado
 * Modelos e algorítmos
+ * Regressão Linear
+ * KNN
+ * Árvores de Decisão
+ * Naive Bayes
+ * Clustering
 * Pré-processamento dos dados
 
 #### Deep Learning
