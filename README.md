@@ -8,11 +8,13 @@ Linkedin: https://br.linkedin.com/in/emanuelgsouza
 
 Site pessoal: https://emanuelgdev.com.br
 
-Blog: https://medium.com/@Emanuel_G
+Medium: https://medium.com/@emanuelgsouza
 
-Perfil no Kaggle: https://www.kaggle.com/emanuelgss
+Perfil no Kaggle: https://www.kaggle.com/emanuelgsouza
 
 Sourcerer: https://sourcerer.io/emanuelgsouza
+
+Twitter: https://twitter.com/emanuelgsouza
 
 Currículo em PDF: [acesse](./curriculo.pdf)
 
