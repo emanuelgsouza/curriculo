@@ -6,7 +6,7 @@
 
 Linkedin: https://br.linkedin.com/in/emanuelgsouza
 
-Site pessoal: https://emanuelgdev.com.br
+Site pessoal: https://emanuelgsouza.dev
 
 Medium: https://medium.com/@emanuelgsouza
 
