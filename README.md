@@ -22,11 +22,11 @@ Currículo em PDF: [acesse](./curriculo.pdf)
 
 ## Capacitação
 
-##### Curso em Técnico em Informática
+##### Curso de Análise de Sistemas
 
-FAETEC - Fundação de Apoio à Escola Técnica
+UNIVERSIDADE UNIGRANRIO
 
-Agosto de 2015 - Dezembro de 2016
+Agosto de 2017 - Agosto de 2019
 
 ##### Curso de Sistemas de Informação
 
@@ -34,27 +34,33 @@ UNIVERSIDADE UNIGRANRIO
 
 Agosto de 2016 - Julho de 2017 (2 semestres)
 
-##### Curso de Análise de Sistemas
+##### Curso em Técnico em Informática
 
-UNIVERSIDADE UNIGRANRIO
+FAETEC - Fundação de Apoio à Escola Técnica
 
-Agosto de 2017 - previsão de Agosto de 2019
+Agosto de 2015 - Dezembro de 2016
 
 ---
 
 ## Experiências
 
-#####  [Intercase - Lojas Inteligentes](http://www.intercase.com.br/)
+###  [Storyblok](https://www.storyblok.com)
+
+Front End
+
+Outubro de 2019 - atualmente
+
+###  [Decision 6 - Store Flow](https://decision6.com/)
+
+Analista Web
+
+Agosto de 2017 - Setembro de 2019
+
+###  [Intercase - Lojas Inteligentes](https://www.intercase.com.br/)
 
 Estagiário Front End
 
 Março 2017 - Julho de 2017
-
-#####  [Decision 6 - Store Flow](https://decision6.com/)
-
-Analista Web
-
-Agosto de 2017 - atualmente
 
 ---
 
